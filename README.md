@@ -1,6 +1,7 @@
 # Power-BI-Project
 ## [Global Sales Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDIyMWFjMWQtODY2MC00ODQ5LTlhOWQtNzUwNjVmOWU5MWRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 <img width="1231" height="682" alt="image" src="https://github.com/user-attachments/assets/cdf42a5d-1d1f-4e62-b20d-9751a5795dd7" />
+
 ### Project Overview
 This project analyzes international sales performance across multiple markets using Power BI. By combining transactional, product, store, and calendar data, the dashboard provides insights into revenue trends, regional performance, brand contribution, and year-over-year sales growth. The goal is to support data-driven decision-making through interactive visualizations and business intelligence techniques.
 ### Dataset Source
