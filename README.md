@@ -12,6 +12,8 @@ The analysis is based on the Contoso sample dataset. The dataset includes sales 
 - Product;
 - Store;
 - Calendar.
+<img width="1042" height="587" alt="image" src="https://github.com/user-attachments/assets/2845309f-592a-49a8-aa53-8750c8cc5a38" />
+
 ### Data Preparation
 The data preparation process was performed in Power BI and included:
 - Combined sales data from the USA, China, and Germany into a single sales table.
